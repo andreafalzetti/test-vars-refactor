@@ -1,5 +1,0 @@
-dependencies:
-  - https://github.com/okteto/go-getting-started
-
-deploy:
-  - env
